@@ -10,7 +10,7 @@ export default function App() {
       <Image
         source={require('./assets/test.jpg')}
         style={{width: 200, height: 150}}
-        blurRadius={25}
+        blurRadius={40}
       />
     </View>
   );
